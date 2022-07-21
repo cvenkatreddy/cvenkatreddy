@@ -33,6 +33,40 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67"><img src="https://camo.githubusercontent.com/2717985f26463c118a5e93fd5ab74cbafe4dd5c9e9a9ca4bf2af249baf4d92a7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f3132303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" alt="postgresql" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="max-width: 100%;"></a>
 etc...
 </p>
+  
+<h3 dir="auto"><a id="user-content-list-of-projects-that-might-be-usefull-if-you-are-qa-automation" class="anchor" aria-hidden="true" href="#list-of-projects-that-might-be-usefull-if-you-are-qa-automation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>List of projects on QA Automation</h3>
+
+<p dir="auto">These sample projects can be used an initial guides to build a new automation projects</p>
+
+<table>
+    <tbody>
+      <tr>
+        <th> Repository </th>
+        <th> Technologies & Frameworks </th>
+        <th> Comments </th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/cvenkatreddy/cypress-bdd-pom">cypress-bdd-pom</a></td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
+         <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
+        <img src="https://www.costansin.com/wp-content/uploads/2019/05/docker_facebook_share.png" width="40" height="40" style="max-width: 100%;">
+       </td>
+       <td>A sample framework created using cypress, bdd, typescript and reports are generated using various report styles like mochawesome and allure-report. This project also contains dockerfile and execute tests in docker.
+       </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/cvenkatreddy/Python-Selenium-Pytest">Python-Selenium-Pytest</a></td>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" height="40" style="max-width: 100%;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/dfc89fd0-ff85-11e7-a77e-87408754420f.png" width="40" height="40" style="max-width: 100%;">
+        </td>
+        <td>A sample framework created using python, pytest and selenium and reports are generated using allure-report. This project also contains github actions to trigger tests for every new commit</td>
+    </tr>  
+</tbody></table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvenkatreddy&show_icons=true&locale=en&layout=compact" alt="cvenkatreddy" /></p>
 
