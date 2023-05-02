@@ -29,7 +29,7 @@
 <img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
 <img src="https://spng.subpng.com/20180422/jgw/kisspng-gitlab-continuous-integration-logo-version-control-duwu-5adc47f5d922d7.2883957715243857818894.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
-<img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" width="40" height="40" style="max-width: 100%;"><br>
 etc...
 </p>
