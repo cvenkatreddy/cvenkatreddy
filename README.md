@@ -27,7 +27,7 @@
 <img src="https://www.javatpoint.com/jmeter/images/jmeter-tutorial.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
-<img src="https://spng.subpng.com/20180422/jgw/kisspng-gitlab-continuous-integration-logo-version-control-duwu-5adc47f5d922d7.2883957715243857818894.jpg" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" width="40" height="40" style="max-width: 100%;"><br>
@@ -93,5 +93,5 @@ etc...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/qaauto-venkatreddyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qaauto-venkatreddyc" height="30" width="40" /></a>
-<a href="https://gitlab.com/cvenkatreddy" rel="nofollow"><img align="center" src="https://spng.subpng.com/20180422/jgw/kisspng-gitlab-continuous-integration-logo-version-control-duwu-5adc47f5d922d7.2883957715243857818894.jpg" height="30" width="30" data-canonical-src="https://spng.subpng.com/20180422/jgw/kisspng-gitlab-continuous-integration-logo-version-control-duwu-5adc47f5d922d7.2883957715243857818894.jpg" style="max-width: 100%;"></a>
+<a href="https://gitlab.com/cvenkatreddy" rel="nofollow"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" height="30" width="30" data-canonical-src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" style="max-width: 100%;"></a>
 </p>
