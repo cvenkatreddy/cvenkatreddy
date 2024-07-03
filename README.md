@@ -30,7 +30,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS.png" width="40" height="40" style="max-width: 100%;"><br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEm5suhwNW-xoTdDZvgPM5q0o1y4WqhawaQ&s" width="40" height="40" style="max-width: 100%;"><br>
 etc...
 </p>
   
@@ -62,7 +62,7 @@ etc...
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://opencollective-production.s3-us-west-1.amazonaws.com/dfc89fd0-ff85-11e7-a77e-87408754420f.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEm5suhwNW-xoTdDZvgPM5q0o1y4WqhawaQ&s" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>A sample framework created using python, pytest and selenium and reports are generated using allure-report. This project also contains github actions to trigger tests for every new commit</td>
     </tr>
