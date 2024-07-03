@@ -22,7 +22,7 @@
 <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://miro.medium.com/max/881/1*A7E6HKBOg-8UfcmTiJLtuw.jpeg" width="40" height="40" style="max-width: 100%;">
-<img src="https://i2.wp.com/blogs.perficient.com/files/2014/08/TestNG.png?fit=200%2C254&ssl=1" width="40" height="40" style="max-width: 100%;">
+<img src="https://docs.testit.software/images/integrations/testng.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.javatpoint.com/jmeter/images/jmeter-tutorial.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" height="40" style="max-width: 100%;">
@@ -80,7 +80,7 @@ etc...
         <td>
           <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
-          <img src="https://i2.wp.com/blogs.perficient.com/files/2014/08/TestNG.png?fit=200%2C254&ssl=1" width="40" height="40" style="max-width: 100%;">
+          <img src="https://docs.testit.software/images/integrations/testng.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>This is an E2E Rest API testing framework for sample endpoints available in https://restful-booker.herokuapp.com/apidoc/index.html, The published APIs represent a booking system where user can create, update and cancel bookings.</td>
