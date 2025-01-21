@@ -17,14 +17,15 @@
 
 <p dir="auto">
 <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
-<img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://mochajs.org/images/mocha-logo.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://miro.medium.com/max/881/1*A7E6HKBOg-8UfcmTiJLtuw.jpeg" width="40" height="40" style="max-width: 100%;">
 <img src="https://docs.testit.software/images/integrations/testng.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://www.javatpoint.com/jmeter/images/jmeter-tutorial.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://gatling.io/hs-fs/hubfs/Gatling-logo-RVB.png?width=854&height=148&name=Gatling-logo-RVB.png" height="40" style="max-width: 100%;">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
