@@ -30,7 +30,7 @@
 <img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
-<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEm5suhwNW-xoTdDZvgPM5q0o1y4WqhawaQ&s" width="40" height="40" style="max-width: 100%;"><br>
 etc...
 </p>
@@ -52,7 +52,7 @@ etc...
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
        </td>
        <td>A sample framework created using cypress, bdd, typescript and reports are generated using various report styles like mochawesome and allure-report. This project also contains dockerfile and execute tests in docker.
        </td>
@@ -82,7 +82,6 @@ etc...
           <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
           <img src="https://docs.testit.software/images/integrations/testng.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>This is an E2E Rest API testing framework for sample endpoints available in https://restful-booker.herokuapp.com/apidoc/index.html, The published APIs represent a booking system where user can create, update and cancel bookings.</td>
     </tr>
