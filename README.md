@@ -1,6 +1,6 @@
 <h1 dir="auto"><a id="user-content-hi--nice-to-see-you" class="anchor" aria-hidden="true" href="#hi--nice-to-see-you"></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, Good to see you :blush:</h1>
 
-<h3 align="left" dir="auto"><a id="user-content-im-savva-genchevskiy-senior-qa-automationperformance-engineer" class="anchor" aria-hidden="true" href="#im-savva-genchevskiy-senior-qa-automationperformance-engineer"></a>I'm Venkat Reddy CH, SDET Manager</h3>
+<h3 align="left" dir="auto"><a id="user-content-im-savva-genchevskiy-senior-qa-automationperformance-engineer" class="anchor" aria-hidden="true" href="#im-savva-genchevskiy-senior-qa-automationperformance-engineer"></a>I'm Venkat Reddy CH, SDET Architect or Manager, Quality Engineering</h3>
 
 <p dir="auto">Welcome to my profile! <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>Here you will find a some of sample projects that will help you to get started with the most popular libraries and frameworks in Test Automation Arena!</p>
 
