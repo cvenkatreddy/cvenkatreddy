@@ -17,6 +17,7 @@
 
 <p dir="auto">
 <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
+<img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://mochajs.org/images/mocha-logo.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
@@ -27,7 +28,7 @@
 <img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.prod.website-files.com/685a8fe4ddca049f26333871/685d6a0e417481e14f3eb1f6_Gatling.webp" height="40" style="max-width: 100%;">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" height="40" style="max-width: 100%;">
-<img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
+<img src="https://www.snowflake.com/content/experience-fragments/snowflake-site/language-masters/en/site/footer/master/_jcr_content/root/container_573483281_/container_112062425/flexible_column_cont/flexible_column_content_container_1/container/container/image.coreimg.svg/1747882370694/nav-icon-snowflake-bug.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
