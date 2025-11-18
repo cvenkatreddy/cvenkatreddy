@@ -25,7 +25,7 @@
 <img src="https://docs.testit.software/images/integrations/testng.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40" style="max-width: 100%;">
-<img src="https://gatling.io/hs-fs/hubfs/Gatling-logo-RVB.png?width=854&height=148&name=Gatling-logo-RVB.png" height="40" style="max-width: 100%;">
+<img src="https://cdn.prod.website-files.com/685a8fe4ddca049f26333871/685d6a0e417481e14f3eb1f6_Gatling.webp" height="40" style="max-width: 100%;">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://kontext.tech/api/flex/medias/obj-1713" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
