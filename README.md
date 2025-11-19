@@ -8,9 +8,9 @@
 <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" style="max-width: 100%;">
 , and
-<img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" style="max-width: 100%;"></a>
+<img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="40" height="40" style="max-width: 100%;"></a>
 </h3>
 
 <h3 dir="auto"><a id="user-content-things-that-i-love-to-code-with" class="anchor" aria-hidden="true" href="#things-that-i-love-to-code-with"</a>Things that I love to code with: </h3>
@@ -32,7 +32,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEm5suhwNW-xoTdDZvgPM5q0o1y4WqhawaQ&s" width="40" height="40" style="max-width: 100%;"><br>
+<img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl-650x650.png" width="40" height="40" style="max-width: 100%;"><br>
 etc...
 </p>
   
@@ -64,7 +64,7 @@ etc...
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEm5suhwNW-xoTdDZvgPM5q0o1y4WqhawaQ&s" width="40" height="40" style="max-width: 100%;">
+          <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl-650x650.png" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>A sample framework created using python, pytest and selenium and reports are generated using allure-report. This project also contains github actions to trigger tests for every new commit</td>
     </tr>
