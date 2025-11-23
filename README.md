@@ -50,11 +50,10 @@ etc...
       <tr>
         <td><a href="https://github.com/cvenkatreddy/playwright-mcp">playwright-mcp</a></td>
         <td>
-          <p>mcp server,
-          windsurf,
-          AI agents,
-          javaScript,
-          fakerAPI</p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Model_Context_Protocol_logo.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://windsurf.com/logo/windsurf-white-symbol.svg" width="40" height="40" style="max-width: 100%;">
+          <img src="https://cdn-icons-png.flaticon.com/512/13298/13298257.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>A step-by-step guide for generating UI and API test suites using playwright mcp server and client windsurf</td>
     </tr>
