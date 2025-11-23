@@ -78,7 +78,7 @@ etc...
         <td>Sample proof-of-concept for demonstrating different testing types using k6</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/cvenkatreddy/restful-booker-test">Restful-Booker-Test</a></td>
+        <td><a href="https://github.com/cvenkatreddy/restassured-serenity-cucumber">restassured-serenity-cucumber</a></td>
         <td>
           <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
