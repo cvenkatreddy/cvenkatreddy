@@ -82,7 +82,7 @@ etc...
         <td>
           <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
-          <img src="[https://docs.testit.software/images/integrations/testng.png](https://serenity-bdd.github.io/img/serenity-bdd-small.png)" width="40" height="40" style="max-width: 100%;">
+          <img src="https://serenity-bdd.github.io/img/serenity-bdd-small.png" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>This is an E2E Rest API testing framework for sample endpoints available in https://restful-booker.herokuapp.com/apidoc/index.html, The published APIs represent a booking system where user can create, update and cancel bookings.</td>
     </tr>
