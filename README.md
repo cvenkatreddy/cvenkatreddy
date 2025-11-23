@@ -48,6 +48,17 @@ etc...
         <th> Comments </th>
       </tr>
       <tr>
+        <td><a href="https://github.com/cvenkatreddy/playwright-mcp">playwright-mcp</a></td>
+        <td>
+          <p>mcp server,
+          windsurf,
+          AI agents,
+          javaScript,
+          fakerAPI</p>
+        </td>
+        <td>A step-by-step guide for generating UI and API test suites using playwright mcp server and client windsurf</td>
+    </tr>
+      <tr>
         <td><a href="https://github.com/cvenkatreddy/cypress-bdd-pom">cypress-bdd-pom</a></td>
         <td>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
@@ -67,15 +78,6 @@ etc...
           <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl-650x650.png" width="40" height="40" style="max-width: 100%;">
         </td>
         <td>A sample framework created using python, pytest and selenium and reports are generated using allure-report. This project also contains github actions to trigger tests for every new commit</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cvenkatreddy/k6-sample-poc">K6-Sample-POC</a></td>
-        <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="40" height="40" style="max-width: 100%;">
-          <img src="https://benheater.com/content/images/2022/04/powershell-1.png" width="40" height="40" style="max-width: 100%;">
-        </td>
-        <td>Sample proof-of-concept for demonstrating different testing types using k6</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cvenkatreddy/restassured-serenity-cucumber">restassured-serenity-cucumber</a></td>
