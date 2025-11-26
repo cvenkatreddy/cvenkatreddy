@@ -89,9 +89,6 @@ etc...
     </tr>
 </tbody></table>
 
-<p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cvenkatreddy&show_icons=true&locale=en&layout=compact" alt="cvenkatreddy"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cvenkatreddy&show_icons=true&locale=en" alt="cvenkatreddy" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/qaauto-venkatreddyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qaauto-venkatreddyc" height="30" width="40" /></a>
