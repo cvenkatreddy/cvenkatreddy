@@ -7,7 +7,7 @@
 <h3 dir="auto"><a id="user-content-languages-i-am-enjoyed---and" class="anchor" aria-hidden="true" href="#languages-i-am-enjoyed---and"></a>Languages I was working on:<br><br>
 <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" style="max-width: 100%;">
 , and
 <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="40" height="40" style="max-width: 100%;"></a>
