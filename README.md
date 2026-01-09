@@ -18,7 +18,7 @@
 <p dir="auto">
 <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" style="max-width: 100%;">
-<img src="https://mochajs.org/images/mocha-logo.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mocha_logo.svg/120px-Mocha_logo.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
