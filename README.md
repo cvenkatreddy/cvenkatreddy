@@ -20,6 +20,7 @@
 <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mocha_logo.svg/120px-Mocha_logo.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-white.png" width="40" height="40" style="max-width: 100%;">  
 <img src="https://avatars.githubusercontent.com/u/19369327?v=4&s=400" width="40" height="40" style="max-width: 100%;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://miro.medium.com/max/881/1*A7E6HKBOg-8UfcmTiJLtuw.jpeg" width="40" height="40" style="max-width: 100%;">
