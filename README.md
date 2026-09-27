@@ -6,7 +6,7 @@
 
 <h3 dir="auto"><a id="user-content-languages-i-am-enjoyed---and" class="anchor" aria-hidden="true" href="#languages-i-am-enjoyed---and"></a>Languages I was working on:<br><br>
 <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" style="max-width: 100%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAHN1T215z9aRgWAePMZOBbz5SWzD2YS4iuWIt9FpYQ&s=10" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" style="max-width: 100%;">
 , and
@@ -31,7 +31,7 @@
 <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.snowflake.com/content/experience-fragments/snowflake-site/language-masters/en/site/footer/master/_jcr_content/root/container_573483281_/container_112062425/flexible_column_cont/flexible_column_content_container_1/container/container/image.coreimg.svg/1747882370694/nav-icon-snowflake-bug.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="40" height="40" style="max-width: 100%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" width="40" height="40" style="max-width: 100%;">
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl-650x650.png" width="40" height="40" style="max-width: 100%;"><br>
 etc...
