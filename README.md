@@ -61,7 +61,7 @@ etc...
       <tr>
         <td><a href="https://github.com/cvenkatreddy/cypress-bdd-pom">cypress-bdd-pom</a></td>
         <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAHN1T215z9aRgWAePMZOBbz5SWzD2YS4iuWIt9FpYQ&s=10" width="40" height="40" style="max-width: 100%;">
           <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="40" height="40" style="max-width: 100%;">
           <img src="https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-700x394.png" width="40" height="40" style="max-width: 100%;">
@@ -72,7 +72,7 @@ etc...
     <tr>
         <td><a href="https://github.com/cvenkatreddy/Python-Selenium-Pytest">Python-Selenium-Pytest</a></td>
         <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40" style="max-width: 100%;">
+          <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" height="40" style="max-width: 100%;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40" style="max-width: 100%;">
           <img src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl-650x650.png" width="40" height="40" style="max-width: 100%;">
